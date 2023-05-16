@@ -1,0 +1,19 @@
+id: I94FC9F4F
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:49.096857
+last_modified: 2023-01-04 11:27:49.096872
+source_metadata:
+  collections:
+  - Akhyuk Rinpoche Lungtok Gyaltsen
+  - Works of Tibetan Masters
+bases:
+  F319:
+    title: A Prayer to the Precious Teacher of Incomparable Kindness, Jamyang Lungtok
+      Gyaltsen
+    base_file: F319.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
